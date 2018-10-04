@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+}
+header,footer{
+	background-color: #061339;
+}
+
+.tailleHeader1{
+	height : 15px;
+}
+
+.tailleHeader2{
+	height: 150px;
+}
+.catBckgrnd{
+	background-image: url("../img/background.jpg");
+}
+
+.textAdoption{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+	font-size: 180%;
+	padding: 60px;
+	font-family: "Bradley Hand", cursive;
+
+
+}
+
+.mainSection1{
+	background-color: #f1f1f1;
+	height: 460px;
+}
+
+.divForm{
+	margin-left: 20px;
+}
+.divCatImg{
+	width: 750px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right:25%;
+}
+.imgCat{
+	width: 100%;
+
+}
+
+.mainSection2{
+	background-color: #dddddd;
+	height: 260px;
+}
+
+footer{
+	height: 30px;
+}
+.clearFix{
+	clear: both;
+}
